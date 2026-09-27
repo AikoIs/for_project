@@ -1,0 +1,4 @@
+output/
+configs/
+__pycache__/
+*.py[cod]
